@@ -196,7 +196,7 @@ function Use_Three_js(use_canvas, canvas_name){
         controls_orbit.dampingFactor = 0.05;
 
         controls_orbit.minDistance = 5;
-        controls_orbit.maxDistance = 15;
+        controls_orbit.maxDistance = 25;
 
         
 

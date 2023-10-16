@@ -50,6 +50,10 @@ body {
   height: 500px;
   top: 10%;
   position: absolute;
+  /* text-transform: rotate(90deg); */
+  /* writing-mode: vertical-rl;
+  /* transform-origin: bottom left; */
+  /* text-orientation: mixed; */
   /* padding-top: 35%;
   padding-bottom: 35%; */
 
